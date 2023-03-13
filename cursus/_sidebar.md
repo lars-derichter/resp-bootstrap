@@ -8,9 +8,8 @@
     - [05.02. Gridsysteem](cursus/05-02-gridsysteem.md)
     - [05.03. Basic grid (oefening)](cursus/05-03-basic-grid.md)
     - [05.04. Spacing](cursus/05-04-spacing.md)
-    - [05.05. Gutters (oefening)](cursus/05-05-gutters-exc.md)
-    - [05.06. Responsive grid (oefening)](cursus/05-06-responsive-oef.md)
+    - [05.05. Responsive grid (oefening)](cursus/05-05-responsive-oef.md)
   - 06. Components
     - [06.01 Navbar](cursus/06-01-navbar.md)
     - [06.02 Cards](cursus/06-02-cards.md)
-    
+    - [06.03 Carousel](cursus/06-03-carousel.md)

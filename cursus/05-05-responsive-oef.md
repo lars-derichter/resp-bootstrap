@@ -1,4 +1,4 @@
-# 💪 Basisoefening 3: basic responsive grid
+# 💪 Basic responsive grid (oefening)
 
 ## Startcode
 
