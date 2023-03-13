@@ -2,7 +2,7 @@
 
 ## Startcode
 
-[bootstrap-basis-oefeningen.zip](/bootstrap-basis-oefeningen.zip) >> 08-basic-responsive-grid.html
+[bootstrap-basis-oefeningen.zip](_files/bootstrap-basis-oefeningen.zip) >> 08-basic-responsive-grid.html
 
 of [https://github.com/lars-derichter/responsive-design-files/blob/main/bootstrap-basis-oefeningen/08-basic-responsive-grid.html](https://github.com/lars-derichter/responsive-design-files/blob/main/bootstrap-basis-oefeningen/08-basic-responsive-grid.html)
 

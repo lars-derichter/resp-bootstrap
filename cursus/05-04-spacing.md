@@ -7,7 +7,7 @@
 
 ## Startcode
 
-[bootstrap-basis-oefeningen.zip](https://thomasmore.instructure.com/courses/31186/files/5246377?wrap=1) >> 02-margins.html
+[bootstrap-basis-oefeningen.zip](_files/bootstrap-basis-oefeningen.zip) >> 02-margins.html
 
 ## Opdracht
 

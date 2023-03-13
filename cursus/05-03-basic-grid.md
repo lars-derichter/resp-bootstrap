@@ -1,7 +1,7 @@
 # 💪 Basisoefening 1: basic grid
 ## Startcode
 
-[bootstrap-basis-oefeningen.zip](/bootstrap-basis-oefeningen.zip) >> 01-basic-grid.html
+[bootstrap-basis-oefeningen.zip](_files/bootstrap-basis-oefeningen.zip) >> 01-basic-grid.html
 
 of [https://github.com/lars-derichter/responsive-design-files/blob/main/bootstrap-basis-oefeningen/01-basic-grid.html](https://github.com/lars-derichter/responsive-design-files/blob/main/bootstrap-basis-oefeningen/01-basic-grid.html)
 
