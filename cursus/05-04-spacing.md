@@ -7,7 +7,7 @@
 
 ## Startcode
 
-[bootstrap-basis-oefeningen.zip](_files/bootstrap-basis-oefeningen.zip) >> 02-margins.html
+[bootstrap-basis-oefeningen.zip](https://lars-derichter.github.io/resp-bootstrap/bootstrap-basis-oefeningen.zip) >> 02-margins.html
 
 ## Opdracht
 
