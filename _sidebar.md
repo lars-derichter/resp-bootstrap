@@ -1,3 +1,4 @@
 - [Cursusmateriaal](/cursus/)
-  - [01. Responsive Design](cursus/01-resposive-design.md)
-
+  - [01. Pas een bestaande webpagina aan](cursus/01-resposive-design.md)
+  - [02. Bootstrap voorbeeld](cursus/02-bootstrap-voorbeeld.md)
+  
