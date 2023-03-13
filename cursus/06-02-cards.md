@@ -20,12 +20,12 @@ Je container heeft op xs een buitenmarge 3 en vanaf lg een buitenmarge 5. Tussen
 
 extra-small - medium:
 
-![xs - md](cursus/_images/06-02-cards-xs.png)
+![xs - md](_images/06-02-cards-xs.png)
 
 
 large en groter:
 
-![lg - xxl](cursus/_images/06-02-cards-lg.png)
+![lg - xxl](_images/06-02-cards-lg.png)
 
 ## 🔑 Oplossing
 

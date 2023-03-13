@@ -18,8 +18,8 @@ De navbar volgt deze criteria:
 
 Extra-small tot en met medium:
 
-![xs - md](cursus/_images/06-01-navbar-lg.png)
+![xs - md](_images/06-01-navbar-lg.png)
 
 Large en groter:
 
-![lg - xxl](cursus/_images/06-01-navbar-sm.png)
+![lg - xxl](_images/06-01-navbar-sm.png)

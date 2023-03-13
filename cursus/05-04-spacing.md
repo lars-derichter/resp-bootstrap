@@ -23,7 +23,7 @@ Werk in de mate van het mogelijke met gutters.
 
 Het resultaat ziet er ongeveer als volgt uit (in de Device inspector):
 
-![screenshot](cursus/_images/05-05-gutters.png)
+![screenshot](_images/05-04-gutters.png)
 
 ## 🔑 Oplossing
 

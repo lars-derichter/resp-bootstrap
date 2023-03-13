@@ -20,8 +20,8 @@ Voor de foto’s kan je de volgende sources gebruiken:
 
 Het resultaatis ongeveer als volgt (je kittens kunnen anders zijn):
 
-![1](cursus/_images/06-03-carousel-1.png)
+![1](_images/06-03-carousel-1.png)
 
-![2](cursus/_images/06-03-carousel-2.png)
+![2](_images/06-03-carousel-2.png)
 
-![3](cursus/_images/06-03-carousel-3.png)
+![3](_images/06-03-carousel-3.png)
