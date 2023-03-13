@@ -4,7 +4,7 @@
   - [03. Wat is Bootstrap?](cursus/03-wat-is-bootstrap.md)
   - [04. Bootstrap Start HTML](cursus/04-bootstrap-start-html.md)
   - 05. Statische lay-out
-    - [05.01. Schermgroottes en containers](cursus/05-01-schermgroottes.md)
+    - [05.01. Schermgroottes en containers](cursus/05-01-schermgroottes)
     - [05.02. Gridsysteem](cursus/05-02-gridsysteem.md)
     - [05.03. Basic grid (oefening)](cursus/05-03-basic-grid.md)
     - [05.04. Spacing](cursus/05-04-spacing.md)
@@ -12,3 +12,5 @@
     - [05.06. Responsive grid (oefening)](cursus/05-06-responsive-oef.md)
   - 06. Components
     - [06.01 Navbar](cursus/06-01-navbar.md)
+    - [06.02 Cards](cursus/06-02-cards.md)
+    

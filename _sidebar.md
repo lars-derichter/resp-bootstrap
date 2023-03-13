@@ -12,3 +12,5 @@
     - [05.06. Responsive grid (oefening)](cursus/05-06-responsive-oef.md)
   - 06. Components
     - [06.01 Navbar](cursus/06-01-navbar.md)
+    - [06.02 Cards](cursus/06-02-cards.md)
+    
