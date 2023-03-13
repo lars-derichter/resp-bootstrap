@@ -2,4 +2,10 @@
   - [01. Pas een bestaande webpagina aan](cursus/01-resposive-design.md)
   - [02. Bootstrap voorbeeld](cursus/02-bootstrap-voorbeeld.md)
   - [03. Wat is Bootstrap?](cursus/03-wat-is-bootstrap.md)
-  
+  - [04. Bootstrap Start HTML](cursus/04-bootstrap-start-html.md)
+  - 05. Statische lay-out
+    - [05.01. Schermgroottes en containers](cursus/05-01-schermgroottes)
+    - [05.02. Gridsysteem](cursus/05-02-gridsysteem.md)
+    - [05.03. Basic grid (oefening)](cursus/05-03-basic-grid.md)
+    - [05.04. Spacing](cursus/05-04-spacing.md)
+    - [05.05. Gutters (oefening)](cursus/05-05-gutters-exc.md)
