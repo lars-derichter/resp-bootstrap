@@ -1,4 +1,4 @@
-# webworkshop-cursus
+# Workshop Bootstrap
 
 Cursusmateriaal voor de workshop: Bouw een responsieve site met Bootstrap.
 
