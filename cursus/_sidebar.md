@@ -14,3 +14,6 @@
     - [06.01 Navbar](cursus/06-01-navbar.md)
     - [06.02 Cards](cursus/06-02-cards.md)
     - [06.03 Carousel](cursus/06-03-carousel.md)
+  - [07. Je site publiceren](cursus/07-publiceren.md)
+  - [08. Codespaces afsluiten](cursus/08-afsluiten.md)
+  - [09. Meer leren](cursus/09-meer-leren.md)
